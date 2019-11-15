@@ -1,3 +1,9 @@
+I just made a simple python scraper (using curl) for fetching Swisscom device firmware, here is the list the currently found firmware.
+
+If you want to help gathering urls, feel free to create pull request.
+
+If you find a official list of firmware, please contact me.
+
 # WLAN Box (todo)
 
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/wb_10-00-27.rui
