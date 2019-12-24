@@ -16,7 +16,7 @@ https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/wb_np_10-01-19.rui
 
 # Internet-Box 2 (todo)
 
-# Internet-Box standard
+# Internet Box Plus
 
 ## Application firmware
 
@@ -34,8 +34,9 @@ https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-01-16.rui
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-01-36.rui
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-01-42.rui
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-03-36.rui
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-03-50.rui
 
 
-# Internet Box Plus (todo)
+# Internet-Box standard (todo)
 
 # Internet-Box light (todo)
