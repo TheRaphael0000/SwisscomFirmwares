@@ -1,4 +1,4 @@
-I just made a simple python scraper (using curl) for fetching Swisscom device firmware, here is the list the currently found firmware.
+I just made a simple python scraper for fetching Swisscom device firmware, here is the list the currently found firmware.
 
 If you want to help gathering urls, feel free to create pull request.
 
