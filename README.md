@@ -18,14 +18,6 @@ https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/wb_np_10-01-19.rui
 
 # Internet Box Plus
 
-## Application firmware
-
-https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-00-58.acs
-https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-00-66.acs
-https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-01-38.acs
-https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-01-50.acs
-https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-03-48.acs
-
 ## System firmware
 
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-00-30.rui
@@ -35,7 +27,16 @@ https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-01-36.rui
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-01-42.rui
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-03-36.rui
 https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-03-50.rui
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_np_10-04-32.rui
 
+## Application firmware
+
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-00-58.acs
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-00-66.acs
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-01-38.acs
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-01-50.acs
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-03-48.acs
+https://www.swisscom.ch/dam/swisscom/de/biz/sme/public/hilfe/ibp_ap_10-04-50.acs
 
 # Internet-Box standard (todo)
 
