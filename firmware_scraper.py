@@ -4,8 +4,8 @@
 Firmware brute force scraper
 Swisscom please make an index available -_-'
 Instead of having to do random bs like this,
-just because you support can't give us the links
-and please add a checkbox to stop auto update.
+just because your support can't give us the links
+and please add a checkbox to stop auto updates.
 """
 
 from urllib.request import urlopen
