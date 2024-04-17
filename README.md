@@ -1,5 +1,5 @@
 ---
-17-04-2024 - It looks like Swisscom is now hiding its firmware somewhere else. This repo is for now invalid. Sorry about this!
+17-04-2024 - It looks like Swisscom is now hiding its firmwares somewhere else. This repo is for now invalid. Sorry about this!
 
 ---
 
